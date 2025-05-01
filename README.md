@@ -2,7 +2,9 @@
 
 A modern, responsive stock price dashboard built with React, TypeScript, and CSS. This application provides real-time stock data visualization with an interactive interface.
 
-![Stock Dashboard Preview](https://i.imgur.com/placeholder.png)
+# Stock Dashboard Preview
+![image](https://github.com/user-attachments/assets/60e7d1c7-def8-4d0a-baac-2029ae09a0f6)
+
 
 ## ✨ Features
 
@@ -13,10 +15,6 @@ A modern, responsive stock price dashboard built with React, TypeScript, and CSS
 - **Responsive Design**: Works seamlessly on desktop and mobile devices
 - **Error Handling**: Graceful error handling for API failures and invalid inputs
 - **Loading States**: Smooth loading animations for better UX
-
-## 🚀 Live Demo
-
-[View Live Demo](https://your-demo-link.com)
 
 ## 🛠️ Technologies Used
 
